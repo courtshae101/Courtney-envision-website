@@ -1,0 +1,38 @@
+body {
+    font-family:Copperplate, fantasy;
+    color: #1d3557;
+    background-color: #fffcf2;
+}
+
+h1{
+    color: #f1faee;
+    background-color: #457b9d;
+    border: 8px solid #1d3557;
+    margin: 5px;   
+}
+
+h2{
+    color: #e63946;
+    border-bottom: 3px solid #457b9d;
+}
+
+#Cooper {
+    border: 3px dashed #457b9d;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10%;
+}
+
+#Recipe_Link{
+    color: #f1faee;
+    background-color: #457b9d;
+    border: 8px solid #1d3557;
+    margin: 5px; 
+}
+
+#Title{
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    
+}
